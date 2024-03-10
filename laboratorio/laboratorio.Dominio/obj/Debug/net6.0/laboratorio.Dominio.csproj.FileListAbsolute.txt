@@ -1,0 +1,14 @@
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\bin\Debug\net6.0\laboratorio.Dominio.deps.json
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\bin\Debug\net6.0\laboratorio.Dominio.runtimeconfig.json
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\bin\Debug\net6.0\laboratorio.Dominio.dll
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\bin\Debug\net6.0\laboratorio.Dominio.pdb
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\laboratorio.Dominio.csproj.AssemblyReference.cache
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\laboratorio.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\laboratorio.Dominio.AssemblyInfoInputs.cache
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\laboratorio.Dominio.AssemblyInfo.cs
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\laboratorio.Dominio.csproj.CoreCompileInputs.cache
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\laboratorio.Dominio.dll
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\refint\laboratorio.Dominio.dll
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\laboratorio.Dominio.pdb
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\laboratorio.Dominio.genruntimeconfig.cache
+E:\c#\laboratory\laboratorio\laboratorio.Dominio\obj\Debug\net6.0\ref\laboratorio.Dominio.dll
