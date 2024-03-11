@@ -12,3 +12,6 @@ E:\c#\laboratory\laboratorio\laboratorio.Infraestructura\obj\Debug\net6.0\refint
 E:\c#\laboratory\laboratorio\laboratorio.Infraestructura\obj\Debug\net6.0\laboratorio.Infraestructura.pdb
 E:\c#\laboratory\laboratorio\laboratorio.Infraestructura\obj\Debug\net6.0\laboratorio.Infraestructura.genruntimeconfig.cache
 E:\c#\laboratory\laboratorio\laboratorio.Infraestructura\obj\Debug\net6.0\ref\laboratorio.Infraestructura.dll
+E:\c#\laboratory\laboratorio\laboratorio.Infraestructura\bin\Debug\net6.0\laboratorio.Dominio.dll
+E:\c#\laboratory\laboratorio\laboratorio.Infraestructura\bin\Debug\net6.0\laboratorio.Dominio.pdb
+E:\c#\laboratory\laboratorio\laboratorio.Infraestructura\obj\Debug\net6.0\laboratorio.Infraestructura.csproj.CopyComplete

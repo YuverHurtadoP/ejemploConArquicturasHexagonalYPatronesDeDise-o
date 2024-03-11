@@ -1,4 +1,5 @@
 using laboratorio.Infraestructura;
+using laboratorio.IOC;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
 
@@ -10,11 +11,14 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+/*
 builder.Services.AddDbContext<LaboratorioContext>(opt => opt.UseNpgsql(builder.Configuration.GetConnectionString("conexionBD")));
 builder.Services.AddControllers().AddJsonOptions(
     opt => { opt.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles; }
     );
+*/
+
+builder.Services.InyectarDependencia(builder.Configuration);
 
 var app = builder.Build();
 

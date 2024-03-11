@@ -52,3 +52,7 @@ E:\c#\laboratory\laboratorio\laboratorio\obj\Debug\net6.0\refint\laboratorio.dll
 E:\c#\laboratory\laboratorio\laboratorio\obj\Debug\net6.0\laboratorio.pdb
 E:\c#\laboratory\laboratorio\laboratorio\obj\Debug\net6.0\laboratorio.genruntimeconfig.cache
 E:\c#\laboratory\laboratorio\laboratorio\obj\Debug\net6.0\ref\laboratorio.dll
+E:\c#\laboratory\laboratorio\laboratorio\bin\Debug\net6.0\laboratorio.Dominio.dll
+E:\c#\laboratory\laboratorio\laboratorio\bin\Debug\net6.0\laboratorio.Infraestructura.dll
+E:\c#\laboratory\laboratorio\laboratorio\bin\Debug\net6.0\laboratorio.Infraestructura.pdb
+E:\c#\laboratory\laboratorio\laboratorio\bin\Debug\net6.0\laboratorio.Dominio.pdb
